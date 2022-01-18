@@ -9,8 +9,8 @@ html {
   --color-gray-100: rgb(200, 196, 193);
   --color-gray-300: rgb(116, 115, 114);
   --color-gray-400: rgb(91, 90, 89);
-  --color-gray-500: rgb(72, 71, 71);
-  --color-gray-600: rgb(57, 56, 55);
+  --color-gray-500: rgb(63, 62, 62);
+  --color-gray-600: rgb(40, 39, 39);
   --color-gray-700: rgb(31, 30, 29);
 
   --color-primary-50: rgb(54, 36, 255);
@@ -41,7 +41,7 @@ html {
 
 body {
   background-color: var(--color-gray-50);
-  color: var(--color-gray-100);
+  color: var(--color-gray-700);
   margin: 0;
 }
 
