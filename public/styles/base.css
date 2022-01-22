@@ -3,7 +3,7 @@
 }
 
 html {
-  font-family: "Montserrat", "sans-serif";
+  font-family: 'Roboto', sans-serif;
 
   --color-gray-50: rgb(216, 215, 222);
   --color-gray-100: rgb(200, 196, 193);
@@ -41,6 +41,7 @@ html {
 
 body {
   margin: 0;
+  text-align: center;
 }
 
 ul,
