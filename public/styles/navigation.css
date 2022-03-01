@@ -14,7 +14,7 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: var(--color-gray-100);
+  background-color: var(--color-gray-400);
 }
 
 #logo a {
@@ -90,7 +90,7 @@ main {
 #mobile-menu .nav-items a,
 #mobile-menu .nav-items button {
   font-size: 1.75rem;
-  color: var(--color-primary-100);
+  color: var(--color-primary-700);
 }
 
 @media (min-width: 48rem) {
