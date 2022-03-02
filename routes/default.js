@@ -18,4 +18,12 @@ router.get('/contact', function(req, res) {
   res.render('contact', { title: 'Contact Info' })
 });
 
+router.get('/login', function(req, res) {
+  res.render('login', { title: 'Login' });
+});
+
+router.get('/signup', function(req, res) {
+  res.render('signup', { title: 'Singup' });
+});
+
 module.exports = router;
