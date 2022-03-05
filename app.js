@@ -10,7 +10,7 @@ app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
 app.use(express.static('public'));
-app.use(defaultRoutes);
 app.use(express.urlencoded({ extended: false }));
+app.use(defaultRoutes);
 
 app.listen(3500);
