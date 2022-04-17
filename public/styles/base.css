@@ -64,4 +64,7 @@ a {
 
 footer {
   background-color: var(--color-gray-400);
+  text-align: center;
+  height: 5rem;
+  width: 100%;
 }
