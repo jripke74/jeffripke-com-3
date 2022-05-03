@@ -4,7 +4,7 @@ const express = require('express');
 
 const app = express();
 
-const mainRoutes = require('./routes/main.routes');
+const mainRoutes = require('./routes/base.routes');
 
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));

@@ -63,7 +63,7 @@ a {
 }
 
 footer {
-  background-color: var(--color-gray-400);
+  background-color: var(--color-gray-100);
   text-align: center;
   height: 5rem;
   width: 100%;
