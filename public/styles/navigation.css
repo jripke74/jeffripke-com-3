@@ -7,14 +7,13 @@ main {
   top: 0;
   left: 0;
   width: 100%;
-  /* max-width: 60rem; */
   height: 5rem;
   margin: -3px auto;
   padding: 0 var(--space-6);
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: var(--color-gray-400);
+  background-color: var(--color-gray-300);
 }
 
 #logo a {
@@ -90,7 +89,7 @@ main {
 #mobile-menu .nav-items a,
 #mobile-menu .nav-items button {
   font-size: 1.75rem;
-  color: var(--color-primary-700);
+  /* color: var(--color-primary-700); */
 }
 
 @media (min-width: 48rem) {
@@ -107,7 +106,7 @@ main {
   }
 
   .nav-items button {
-    color: var(--color-primary-500);
+    /* color: var(--color-primary-700); */
     border-color: var(--color-primary-500);
   }
 

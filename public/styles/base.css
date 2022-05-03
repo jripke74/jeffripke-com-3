@@ -6,7 +6,7 @@ html {
   font-family: "Roboto", "sans-serif";
 
   --color-gray-50: rgb(243, 236, 230);
-  --color-gray-100: rgb(207, 201, 195);
+  --color-gray-100: rgb(231, 228, 225);
   --color-gray-300: rgb(99, 92, 86);
   --color-gray-400: rgb(70, 65, 60);
   --color-gray-500: rgb(37, 34, 31);
@@ -18,7 +18,7 @@ html {
   --color-primary-200: rgb(250, 191, 143);
   --color-primary-400: rgb(223, 159, 41);
   --color-primary-500: rgb(212, 136, 14);
-  --color-primary-700: rgb(212, 120, 14);
+  --color-primary-700: rgb(35, 34, 32);
   --color-primary-200-contrast: rgb(100, 46, 2);
   --color-primary-500-contrast: rgb(255, 255, 255);
 
@@ -59,7 +59,7 @@ ol {
 
 a {
   text-decoration: none;
-  color: var(--color-primary-400);
+  color: var(--color-primary-700);
 }
 
 footer {
